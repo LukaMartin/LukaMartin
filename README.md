@@ -1,13 +1,13 @@
 # Hi! 👋
 
-My name is Luka, I am a junior frontend developer from Sydney, Australia. I have a big interest in web3 and would love to learn blockchain coding languages in future.
+My name is Luka, I am a full stack developer from Sydney, Australia. I have a big personal interest in Web3 and love working in that space.
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,solidity,rust)](https://skillicons.dev)
 
 ## Experience
-- Junior Frontend Developer @ <a href="https://www.froggyfriends.io/" target="blank">Froggy Friends</a> | 2023 - Present
+- Junior Developer @ <a href="https://www.froggyfriends.io/" target="blank">Froggy Friends</a> | 2023 - Present
 
 ## Education
 - CodeAcadamy Frontend Engineer Career Pathway Course - 2024
