@@ -1,16 +1,9 @@
 # Hi! 👋
 
-My name is Luka, I am a full stack developer from Sydney, Australia. I have a big personal interest in Web3 and love working in that space.
-
+My name is Luka, I am a full stack, blockchain developer from Sydney, Australia. I have a big personal interest in Web3 and love working in that space.
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,solidity,rust)](https://skillicons.dev)
-
-## Experience
-- Junior Developer @ <a href="https://www.froggyfriends.io/" target="blank">Froggy Friends</a> | 2023 - Present
-
-## Education
-- CodeAcadamy Frontend Engineer Career Pathway Course - 2024
 
 ## Connect With Me
 <a href="https://linkedin.com/in/luka-martin-7b674a134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luka-martin-7b674a134" height="30" width="40" /></a>
